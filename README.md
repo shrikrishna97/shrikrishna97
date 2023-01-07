@@ -10,3 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--<img src="https://komarev.com/ghpvc/?username=shrishtinamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="shrishtinamdeo" />-->
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=shrikrishna97.shrikrishna97" />
+
+<h1 align="center">
+Hi, 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <!--<img src="https://komarev.com/ghpvc/?username=shrishtinamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="shrishtinamdeo" />-->
+ <img src="https://gpvc.arturio.dev/shrishtinamdeo" alt="Profile views" align='right'/> <a href="https://github.com/shrishtinamdeo/shrishtinamdeo/"> </a> 
+<br/>
