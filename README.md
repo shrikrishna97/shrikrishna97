@@ -12,7 +12,7 @@ shrikrishna97/shrikrishna97 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<img width="100" src="https://visitor-badge.glitch.me/badge?page_id=shrikrishna97.shrikrishna97" />
+<!-- <img width="100" src="https://visitor-badge.glitch.me/badge?page_id=shrikrishna97.shrikrishna97" /> -->
 
 
 
