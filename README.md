@@ -4,7 +4,8 @@
 </h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+and+Programming;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20learner;Data Analysis;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+and+Programming;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20learner;Data+Analysis;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 - 👀 I’m interested in Data and programming 
@@ -20,7 +21,15 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <img width="100" src="https://visitor-badge.glitch.me/badge?page_id=shrikrishna97.shrikrishna97" /> -->
 
+## 🔥 Streak Stats
 
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shri's streak" src="[![GitHub Streak](https://streak-stats.demolab.com?user=shrikrishna97&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)"/>
+  </a>
+  <p align="center"> If you can dream it, you can do it🔥 </p>
+</p>
 
 
 
