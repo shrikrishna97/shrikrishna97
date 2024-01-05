@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on Web App Development.
 - 📫 You can reach me on my LinkedIn Profile https://www.linkedin.com/in/shri-krishna-pandey-4b4195194/ 
 <a href="https://github.com/shrikrishna97/shrikrishna97/"> 
- <img src="https://gpvc.arturio.dev/shrikrishna97" alt="Profile views" align='right'/> </a> 
+<!--  <img src="https://gpvc.arturio.dev/shrikrishna97" alt="Profile views" align='right'/> </a>  -->
 <!---
 shrikrishna97/shrikrishna97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
