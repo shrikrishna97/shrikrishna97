@@ -9,7 +9,8 @@ Hi, I’m Shri Krishna Pandey
 
 <p align="center">
   🎓 <strong>Educator | Developer | Data Enthusiast</strong><br>
-  I bridge the gap between academic learning and practical development through teaching, projects, and collaboration.
+  
+  <b>I bridge the gap between academic learning and practical development through teaching, projects, and collaboration.</b>
 </p>
 
 <p align="center">
@@ -47,6 +48,7 @@ Hi, I’m Shri Krishna Pandey
   <a href="https://sites.google.com/view/shrikrishna97/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Portfolio"/>
   </a>
+  
   <a href="https://shrikrishna97.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Pages-Portfolio-327FC7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages Portfolio"/>
   </a>
@@ -119,8 +121,11 @@ Hi, I’m Shri Krishna Pandey
   <a href="https://github.com/shrikrishna97/Resources-App-Dev">
     <img width="48%" src="https://opengraph.githubassets.com/1/shrikrishna97/Resources-App-Dev" alt="Resources-App-Dev" />
   </a>
-  <a href="https://github.com/shrikrishna97/TracKKaroo">
-    <img width="48%" src="https://opengraph.githubassets.com/1/shrikrishna97/TracKKaroo" alt="TracKKaroo" />
+  <a href="https://github.com/shrikrishna97/gateprep-nexus`">
+    <img width="48%" src="https://opengraph.githubassets.com/1/shrikrishna97/gateprep-nexus" alt="gateprep-nexus" />
+  </a>
+    <a href="https://github.com/shrikrishna97/Computational-Thinking">
+    <img width="48%" src="https://opengraph.githubassets.com/1/shrikrishna97/Computational-Thinking" alt="Computational-Thinking" />
   </a>
 </p>
 
@@ -137,12 +142,12 @@ Hi, I’m Shri Krishna Pandey
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrikrishna97&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shrikrishna97&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=shrikrishna97&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikrishna97&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shrikrishna97&layout=compact&theme=radical" />
 </p>
 
 ---
