@@ -4,86 +4,121 @@ Hi, I’m Shri Krishna Pandey
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Course+Instructor;Data+Science+and+Programming;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Learner;Data+Analysis;Always%20Learning+New+Things&center=true&width=420&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Course+Instructor;Data+Science+and+Programming;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML+Learner;Data+Analysis;Always%20Learning+New+Things&center=true&width=420&height=45">
 </p>
 
-🎓 **Educator | Developer | Data Enthusiast**  
+<p align="center">
+  🎓 <strong>Educator | Developer | Data Enthusiast</strong><br>
+  I bridge the gap between academic learning and practical development through teaching, projects, and collaboration.
+</p>
 
-    I bridge the gap between academic learning and practical development through teaching, projects, and collaboration.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrikrishna97&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ### 🌱 About Me
 
-- 👨‍🏫 I’m working as a **Course Instructor** for the *BS Degree in Data Science and Applications, IIT Madras*.  
-- 💡 I teach **Computational Thinking**, **Application Development (I & II)**, **Software Engineering**, and their **Lab Courses**.  
-- 👀 I’m passionate about **data, programming, and web development**.  
-- 💞️ I love collaborating on **Flask-based web app projects** that make learning easier and smarter.  
-- 🎓 Proud **IIT Madras Alumni**.
-
-📫 **Find Me Online:**  
-- [ℹ️LinkedIn](https://www.linkedin.com/in/shri-krishna-pandey/)  
-- [🦚Google Site](https://sites.google.com/view/shrikrishna97/)  
-- [<img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/d86430cf-4069-41af-842f-a2e96557a75d" />YouTube Channel](https://www.youtube.com/@shri_krishna_pandey)
+- 👨‍🏫 Working as a **Course Instructor** for the *BS Degree in Data Science and Applications, IIT Madras*
+- 💡 Teaching **Computational Thinking**, **Application Development (I & II)**, **Software Engineering**, and their **Lab Courses**
+- 👀 Passionate about **data, programming, and web development**
+- 💞️ Love collaborating on **Flask-based web app projects** that make learning easier and smarter
+- 🎓 Proud **IIT Madras Alumni**
 
 ---
 
-### 👨‍💻 Programming Languages
+### 🔭 What I'm Up To
+
+- 🏗️ Building web apps that make **learning data science more accessible**
+- 📚 Deepening expertise in **AI/ML** and modern **full-stack development**
+- 🤝 Open to collaborate on **open-source education tools** and **Flask/Vue projects**
+- 💬 Ask me about **Python, Flask, Data Science, or teaching tech effectively**
+- ⚡ Fun fact: I believe the best way to learn something is to **teach it**
+
+---
+
+### 📫 Find Me Online
 
 <p align="left">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
+  <a href="https://www.linkedin.com/in/shri-krishna-pandey/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://sites.google.com/view/shrikrishna97/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.youtube.com/@shri_krishna_pandey" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/shrikrishna97/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:shrikrishna97@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### 🧩 Frameworks and Libraries
+### 🛠️ Tech Stack
+
+**Languages**
 
 <p align="left">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white">
-    <img alt="NumPy" src="https://img.shields.io/badge/Numpy-%23013243.svg?logo=numpy&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white">
-    <img alt="Scikit-learn" src="https://img.shields.io/badge/sklearn-%23150458.svg?logo=scikit-learn&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=py,js,java,html,css,nodejs" alt="Languages" />
+</p>
+
+**Frameworks & Libraries**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,vue,bootstrap" alt="Frameworks" />
+  &nbsp;
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white">
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
+</p>
+
+**Databases & Cloud**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,heroku,github" alt="Databases and Cloud" />
+  &nbsp;
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7?logo=github&logoColor=white">
+</p>
+
+**Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman" alt="Tools" />
+  &nbsp;
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white">
+  <img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white">
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?logo=google-sheets&logoColor=white">
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
 </p>
 
 ---
 
-### ☁️ Databases and Cloud Hosting
+### 🚀 Featured Projects
 
-<p align="left">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7?logo=github&logoColor=white">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
+<p align="center">
+  <a href="https://github.com/shrikrishna97/iitm-appdev-resources">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shrikrishna97&repo=iitm-appdev-resources&theme=radical" alt="Pinned Repo 1" />
+  </a>
+  <a href="https://github.com/shrikrishna97/flask-projects">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shrikrishna97&repo=flask-projects&theme=radical" alt="Pinned Repo 2" />
+  </a>
 </p>
 
+> 📌 **Tip:** Pin your top repos on GitHub so they appear here automatically — go to your profile → *Customize your pins*.
 
 ---
 
-### 🧰 Software and Tools
+### 🏆 GitHub Trophies
 
-<p align="left">
-    <img alt="Adobe" src="https://img.shields.io/badge/Adobe-%23FF0000.svg?logo=adobe&logoColor=white">
-    <img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white">
-    <img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white">
-    <img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white">
-    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white">
-    <img alt="Dark Reader" src="https://img.shields.io/badge/Dark%20Reader-141E24?logo=dark-reader&logoColor=white">
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
-    <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?logo=google-sheets&logoColor=white">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-302E31?logo=sublime-text&logoColor=white">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shrikrishna97&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -101,16 +136,35 @@ Hi, I’m Shri Krishna Pandey
 
 ---
 
-### ✨ Fun Fact
+### 📈 Activity Graph
 
-> 🌟 “Teaching and coding both inspire me — one connects minds, the other connects logic.”
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrikrishna97&theme=radical" />
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-Feel free to explore my repositories and connect with me for collaborations or discussions.
+### 🐍 Contribution Snake
 
-### 👁️ Visitor Counter
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shrikrishna97&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrikrishna97/shrikrishna97/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrikrishna97/shrikrishna97/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shrikrishna97/shrikrishna97/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Joke" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ <strong>Thanks for visiting!</strong> If you find my work helpful, consider <strong>following me</strong> and <strong>starring ⭐</strong> my repos.<br>
+  Let's connect and build something amazing together! 🚀
 </p>
