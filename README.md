@@ -156,14 +156,6 @@ Hi, I’m Shri Krishna Pandey
 
 ---
 
-### 😂 Random Dev Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Joke" />
-</p>
-
----
-
 <p align="center">
   ⭐ <strong>Thanks for visiting!</strong> If you find my work helpful, consider <strong>following me</strong> and <strong>starring ⭐</strong> my repos.<br>
   Let's connect and build something amazing together! 🚀
