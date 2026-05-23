@@ -4,27 +4,42 @@ Hi, I’m Shri Krishna Pandey
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Course+Instructor;Data+Science+and+Programming;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Learner;Data+Analysis;Always%20Learning+New+Things&center=true&width=420&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Course+Instructor;Data+Science+and+Programming;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML+Learner;Data+Analysis;Always%20Learning+New+Things&center=true&width=420&height=45">
 </p>
 
-🎓 **Educator | Developer | Data Enthusiast**  
-
-    I bridge the gap between academic learning and practical development through teaching, projects, and collaboration.
+<p align="center">
+  🎓 <strong>Educator | Developer | Data Enthusiast</strong><br>
+  I bridge the gap between academic learning and practical development through teaching, projects, and collaboration.
+</p>
 
 ---
 
 ### 🌱 About Me
 
-- 👨‍🏫 I’m working as a **Course Instructor** for the *BS Degree in Data Science and Applications, IIT Madras*.  
-- 💡 I teach **Computational Thinking**, **Application Development (I & II)**, **Software Engineering**, and their **Lab Courses**.  
-- 👀 I’m passionate about **data, programming, and web development**.  
-- 💞️ I love collaborating on **Flask-based web app projects** that make learning easier and smarter.  
-- 🎓 Proud **IIT Madras Alumni**.
+- 👨‍🏫 Working as a **Course Instructor** for the *BS Degree in Data Science and Applications, IIT Madras*
+- 💡 Teaching **Computational Thinking**, **Application Development (I & II)**, **Software Engineering**, and their **Lab Courses**
+- 👀 Passionate about **data, programming, and web development**
+- 💞️ Love collaborating on **Flask-based web app projects** that make learning easier and smarter
+- 🎓 Proud **IIT Madras Alumni**
 
-📫 **Find Me Online:**  
-- [ℹ️LinkedIn](https://www.linkedin.com/in/shri-krishna-pandey/)  
-- [🦚Google Site](https://sites.google.com/view/shrikrishna97/)  
-- [<img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/d86430cf-4069-41af-842f-a2e96557a75d" />YouTube Channel](https://www.youtube.com/@shri_krishna_pandey)
+---
+
+### 📫 Find Me Online
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shri-krishna-pandey/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://sites.google.com/view/shrikrishna97/" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Site-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Site"/>
+  </a>
+  <a href="https://www.youtube.com/@shri_krishna_pandey" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/shrikrishna97/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
@@ -46,6 +61,7 @@ Hi, I’m Shri Krishna Pandey
 
 <p align="left">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vue.js&logoColor=%234FC08D">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white">
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy-%23013243.svg?logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white">
@@ -63,7 +79,6 @@ Hi, I’m Shri Krishna Pandey
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
 </p>
-
 
 ---
 
@@ -88,6 +103,14 @@ Hi, I’m Shri Krishna Pandey
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shrikrishna97&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -101,14 +124,24 @@ Hi, I’m Shri Krishna Pandey
 
 ---
 
-### ✨ Fun Fact
+### 📈 Activity Graph
 
-> 🌟 “Teaching and coding both inspire me — one connects minds, the other connects logic.”
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrikrishna97&theme=radical" />
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-Feel free to explore my repositories and connect with me for collaborations or discussions.
+### ✨ Fun Fact
+
+> 🌟 "Teaching and coding both inspire me — one connects minds, the other connects logic."
+
+---
+
+<p align="center">
+  ⭐ <strong>Thanks for visiting!</strong> If you find my work helpful, consider <strong>following me</strong> and <strong>starring ⭐</strong> my repos.<br>
+  Let's connect and build something amazing together! 🚀
+</p>
 
 ### 👁️ Visitor Counter
 <p align="left">
