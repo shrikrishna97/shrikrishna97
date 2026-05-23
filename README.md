@@ -56,7 +56,7 @@ Hi, I’m Shri Krishna Pandey
   <a href="https://www.instagram.com/shri.krishna.p/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:shrikrishna97@gmail.com" target="_blank">
+  <a href="mailto:shrikrishnapandey72@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -117,10 +117,10 @@ Hi, I’m Shri Krishna Pandey
 
 <p align="center">
   <a href="https://github.com/shrikrishna97/Resources-App-Dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrikrishna97&repo=Resources-App-Dev&theme=radical" alt="Resources-App-Dev" />
+    <img width="48%" src="https://opengraph.githubassets.com/1/shrikrishna97/Resources-App-Dev" alt="Resources-App-Dev" />
   </a>
   <a href="https://github.com/shrikrishna97/TracKKaroo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrikrishna97&repo=TracKKaroo&theme=radical" alt="TracKKaroo" />
+    <img width="48%" src="https://opengraph.githubassets.com/1/shrikrishna97/TracKKaroo" alt="TracKKaroo" />
   </a>
 </p>
 
