@@ -134,7 +134,7 @@ Hi, I’m Shri Krishna Pandey
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shrikrishna97/shrikrishna97/output/github-trophy.svg" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/shrikrishna97/shrikrishna97/main/github-trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ---
