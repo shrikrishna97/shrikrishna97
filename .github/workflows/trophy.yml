@@ -1,0 +1,51 @@
+name: Generate GitHub Trophy
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Fetch trophy SVG
+        run: |
+          ENDPOINTS=(
+            "https://github-profile-trophy-liard-delta.vercel.app"
+            "https://github-profile-trophy-fork-two.vercel.app"
+            "https://github-profile-trophy-winning.vercel.app"
+            "https://github-profile-trophy-kannan.vercel.app"
+            "https://trophy.benkou.dev"
+            "https://gh-trophy.cdnsoft.net"
+            "https://trophy.ryglcloud.net"
+            "https://github-profile-trophy.vercel.app"
+          )
+          PARAMS="?username=shrikrishna97&theme=radical&no-frame=false&no-bg=true&margin-w=4"
+          mkdir -p dist
+          for BASE in "${ENDPOINTS[@]}"; do
+            URL="${BASE}${PARAMS}"
+            echo "Trying: $URL"
+            HTTP_CODE=$(curl -s -o dist/github-trophy.svg -w "%{http_code}" --max-time 15 "$URL")
+            if [ "$HTTP_CODE" = "200" ] && grep -q "<svg" dist/github-trophy.svg; then
+              echo "Success from: $URL"
+              exit 0
+            fi
+            echo "Failed ($HTTP_CODE), trying next..."
+          done
+          echo "All endpoints failed"
+          exit 1
+
+      - name: Push trophy SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
