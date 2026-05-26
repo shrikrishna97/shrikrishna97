@@ -1,0 +1,55 @@
+name: Generate GitHub Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch trophy SVG
+        run: |
+          ENDPOINTS=(
+            "https://github-profile-trophy-liard-delta.vercel.app"
+            "https://github-profile-trophy-fork-two.vercel.app"
+            "https://github-profile-trophy-winning.vercel.app"
+            "https://github-profile-trophy-kannan.vercel.app"
+            "https://trophy.benkou.dev"
+            "https://gh-trophy.cdnsoft.net"
+            "https://trophy.ryglcloud.net"
+            "https://github-profile-trophy.vercel.app"
+          )
+          PARAMS="?username=shrikrishna97&theme=radical&no-frame=false&no-bg=true&margin-w=4"
+          for BASE in "${ENDPOINTS[@]}"; do
+            URL="${BASE}${PARAMS}"
+            echo "Trying: $URL"
+            HTTP_CODE=$(curl -s -o github-trophy.svg -w "%{http_code}" --max-time 15 "$URL")
+            if [ "$HTTP_CODE" = "200" ] && grep -q "<svg" github-trophy.svg; then
+              echo "Success from: $URL"
+              exit 0
+            fi
+            echo "Failed ($HTTP_CODE), trying next..."
+          done
+          echo "All endpoints failed, keeping existing file"
+          exit 0
+
+      - name: Commit and push trophy SVG
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add github-trophy.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update GitHub Trophy SVG [skip ci]"
+            git push
+          fi
