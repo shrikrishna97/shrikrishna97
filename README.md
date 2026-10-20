@@ -155,8 +155,9 @@ Hi, I’m Shri Krishna Pandey
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrikrishna97&theme=radical" alt="GitHub contribution activity graph" />
+  <img src="https://github-activity-chart.vercel.app/graph?username=shrikrishna97&theme=radical" alt="GitHub contribution activity graph" />
 </p>
+
 
 ---
 
