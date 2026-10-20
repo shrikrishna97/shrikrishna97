@@ -4,7 +4,7 @@ Hi, I’m Shri Krishna Pandey
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Course+Instructor;Data+Science+and+Programming;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML+Learner;Data+Analysis;Always%20Learning+New+Things&center=true&width=420&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Course+Instructor;Data+Science+and+Programming;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML+Learner;Data+Analysis;Always%20Learning+New+Things&center=true&width=420&height=45" alt="Course instructor, data science, and development">
 </p>
 
 <p align="center">
@@ -121,7 +121,7 @@ Hi, I’m Shri Krishna Pandey
   <a href="https://github.com/shrikrishna97/Resources-App-Dev">
     <img width="48%" src="https://opengraph.githubassets.com/1/shrikrishna97/Resources-App-Dev" alt="Resources-App-Dev" />
   </a>
-  <a href="https://github.com/shrikrishna97/gateprep-nexus`">
+  <a href="https://github.com/shrikrishna97/gateprep-nexus">
     <img width="48%" src="https://opengraph.githubassets.com/1/shrikrishna97/gateprep-nexus" alt="gateprep-nexus" />
   </a>
     <a href="https://github.com/shrikrishna97/Computational-Thinking">
@@ -142,12 +142,12 @@ Hi, I’m Shri Krishna Pandey
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shrikrishna97&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrikrishna97&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=shrikrishna97&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shrikrishna97&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikrishna97&layout=compact&theme=radical" alt="Most-used programming languages" />
 </p>
 
 ---
@@ -155,8 +155,9 @@ Hi, I’m Shri Krishna Pandey
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrikrishna97&theme=radical" />
+  <img src="https://github-activity-chart.vercel.app/graph?username=shrikrishna97&theme=radical" alt="GitHub contribution activity graph" />
 </p>
+
 
 ---
 
